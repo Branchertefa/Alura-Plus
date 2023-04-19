@@ -20,6 +20,8 @@ body {
 }
 
 .principal {
+    align-items: center;
+    text-align: center;
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
